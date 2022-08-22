@@ -1,6 +1,9 @@
-# Svelte + Vite
+# Svete & Rick And Morty API
 
-This template should help get you started developing with Svelte in Vite.
+This is a simple Svelte web application using Rick and Morty API, fetch API and CSS Grid
+
+[Demo](https://faztweb.github.io/svelte-rick-and-morty/)
+
 
 ## Recommended IDE Setup
 
